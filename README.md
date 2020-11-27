@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to my profile | Ruby on Rails Developer Jr :man_technologist:
 
-<!--
-**fabriciobonjorno/fabriciobonjorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+#### Technology Stack
+  - HTML
+  - CSS
+  - BOOTSTRAP
+  - RUBY ON RAILS
+  - REACT JS - currently studying
+  - REACT NATIVE - currently studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+#### Some of the projects I carried out :computer::
+
+[Blog](https://blog-de-ti.herokuapp.com/) - Simple blog using Ruby on Rails and Bootstrap! <br>
+[Digital catalog](https://brokermatogrosso.meucatalogo.art.br/) - Products catalog using Ruby on Rails and Bootstrap! <br>
+[Rent cars](https://car-rent-test.herokuapp.com/) - Products catalog using Ruby on Rails and Bootstrap! - under development <br>
+[Api find my coffee](https://github.com/fabriciobonjorno/find_my_coffee_api) - API to locate nearby coffee shops using Ruby on Rails!
