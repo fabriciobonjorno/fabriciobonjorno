@@ -3,12 +3,12 @@
 <hr>
 
 #### Technology Stack
-  - HTML
-  - CSS
-  - BOOTSTRAP
-  - RUBY ON RAILS
-  - REACT JS - currently studying
-  - REACT NATIVE - currently studying
+> - HTML
+> - CSS
+> - BOOTSTRAP
+> - RUBY ON RAILS
+> - REACT JS - currently studying
+> - REACT NATIVE - currently studying
 
 <hr>
 
