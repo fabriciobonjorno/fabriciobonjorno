@@ -17,6 +17,7 @@
 > [Blog](https://blog-de-ti.herokuapp.com/) - Simple blog using Ruby on Rails and Bootstrap! <br>
 > [Digital catalog](https://demo.meucatalogo.art.br/) - Products catalog using Ruby on Rails and Bootstrap! <br>
 > [Api find my coffee](https://github.com/fabriciobonjorno/find_my_coffee_api) - API to locate nearby coffee shops using Ruby on Rails!
+> [Digital Catalog old](https://github.com/fabriciobonjorno/catalogo) - One of my first projects I used in Production at the company I worked for!
 
 <hr>
 
