@@ -33,6 +33,6 @@
  <div>
   <a href="https://github.com/fabriciobonjorno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciobonjorno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobonjorno&layout=compact&langs_count=7&theme=dark"/>
-    ![Snake animation](https://github.com/fabriciobonjorno/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciobonjorno&layout=compact&langs_count=7&theme=dark"/> <br>
+    ![Snake animation](https://github.com/fabriciobonjorno/fabriciobonjorno/blob/output/github-contribution-grid-snake.svg)
 </div>
