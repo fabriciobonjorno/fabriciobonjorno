@@ -24,3 +24,5 @@
 #### Currently Studying :neckbeard::
 
 > I'm currently doing the Bootcamp at [OneBitCode](https://onebitcode.com/) where we will create an ecommerce with api using Ruby on Rails, NextJs and React Native
+
+![Snake animation](https://github.com/fabriciobonjorno/fabriciobonjorno/blob/output/github-contribution-grid-snake.svg)
