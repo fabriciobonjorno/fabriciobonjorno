@@ -19,9 +19,8 @@
 #### Some of the projects I carried out :computer::
 
 > [Blog](https://blog-de-ti.herokuapp.com/) - Simple blog! <br>
-> [Digital catalog](https://demo.meucatalogo.art.br/) - Products catalog! <br>
 > [Quick Order](https://github.com/Thiago-Cardoso/quickorder) - MPV Manage your restaurant and your orders (Hackathon)! <br>
-> [Digital Catalog old](https://github.com/fabriciobonjorno/catalogo) - One of my first projects I used in Production at the company I worked for! <br>
+> [Digital Catalog](https://github.com/fabriciobonjorno/catalogo) - Products catalog! <br>
 >
 > API's <br>
 > [Api find my coffee](https://github.com/fabriciobonjorno/find_my_coffee_api) - API to locate nearby coffee shops! <br>
