@@ -19,7 +19,7 @@
 #### Some of the projects I carried out :computer::
 
 > [Blog](https://blog-de-ti.herokuapp.com/) - Simple blog! <br>
-> [Quick Order](https://github.com/Thiago-Cardoso/quickorder) - MPV Manage your restaurant and your orders (Hackathon)! <br>
+> [Quick Order](https://github.com/Thiago-Cardoso/quickorder) - MVP Manage your restaurant and your orders (Hackathon)! <br>
 > [Digital Catalog](https://github.com/fabriciobonjorno/catalogo) - Products catalog! <br>
 >
 > API's <br>
