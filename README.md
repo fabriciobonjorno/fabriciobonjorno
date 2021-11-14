@@ -9,11 +9,11 @@
 > <img align="center" alt="Fabricio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 > <img align="center" alt="Fabricio-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
 > <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-> <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+> <img align="center" alt="Fabricio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 > <img align="center" alt="Fabricio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 > <img align="center" alt="Fabricio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 > <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-> <br><br> Obs: ReactJs, React Native, Tdd and Docker - currently studying
+> <br><br> Obs: Tdd and Docker - currently studying
 <hr>
 
 #### Some of the projects I carried out :computer::
