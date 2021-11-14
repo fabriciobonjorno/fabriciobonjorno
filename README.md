@@ -25,6 +25,7 @@
 > API's <br>
 > [Api find my coffee](https://github.com/fabriciobonjorno/find_my_coffee_api) - API to locate nearby coffee shops! <br>
 > [Api Ecommerce Games](https://github.com/fabriciobonjorno/ecommerce-api) - Ecommerce for selling game keys! <br>
+> [Api Books](https://github.com/fabriciobonjorno/api-books) - API for registering Books! <br>
 
 <hr>
 
