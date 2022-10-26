@@ -12,6 +12,7 @@
 > <img align="center" alt="Fabricio-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 > <img align="center" alt="Fabricio-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 > <img align="center" alt="Fabricio-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+> <img align="center" alt="Fabricio-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 > <br><br> Obs: Tdd and Docker - currently studying
 <hr>
 
@@ -30,7 +31,7 @@
 
 #### Currently Studying :neckbeard::
 
-> I'm currently doing the Bootcamp at [OneBitCode](https://onebitcode.com/) where we will create an ecommerce with api using Ruby on Rails, NextJs and React Native
+> I'm currently doing the Go Expert at [FullCycle](https://goexpert.fullcycle.com.br/).
 
 #### My Stats :chart_with_upwards_trend::
  <div>
